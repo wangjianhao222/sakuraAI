@@ -125,3 +125,4 @@ if st.session_state.history and st.button("Export conversation as JSON"):
 
 st.markdown("---")
 st.caption("Tip: choose a smaller model if your machine or Streamlit Cloud instance has limited memory.")
+
